@@ -6,6 +6,7 @@ This project demonstrates working with hotel booking data in Snowflake using the
 🥉 Bronze Layer
 Raw CSV data loaded into Snowflake stages
 Data stored without transformations
+
 🥈 Silver Layer
 Data cleaning and validation:
 Handle missing values
@@ -13,6 +14,7 @@ Fix invalid emails
 Remove negative pricing
 Correct date inconsistencies
 Standardize status values
+
 🥇 Gold Layer
 Aggregated and business-ready datasets
 Optimized for reporting and analysis
