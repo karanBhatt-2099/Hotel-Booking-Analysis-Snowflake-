@@ -18,6 +18,7 @@ Aggregated and business-ready datasets
 Optimized for reporting and analysis
 
 🔧 Key Features
+
 Load raw data using Snowflake stages
 Data cleaning and validation using SQL
 Handle inconsistent and corrupted data
@@ -26,6 +27,7 @@ Build analytics-ready datasets
 Create interactive dashboards in Snowsight
 
 🧰 Tech Stack
+
 Snowflake
 Snowflake SQL
 Snowsight Dashboards
